@@ -3,8 +3,8 @@ function StepItem({ num, title, desc }: { num: string; title: string; desc: stri
     <div className="flex gap-6 items-start p-4">
       <span className="text-2xl font-serif italic text-stone-400 border-b border-stone-300 pb-1">{num}</span>
       <div className="space-y-1">
-        <h4 className="text-lg font-medium text-stone-900">{title}</h4>
-        <p className="text-stone-600 font-light text-sm leading-relaxed">{desc}</p>
+        <h4 className="text-lg font-medium text-white">{title}</h4>
+        <p className="text-stone-300 font-light text-sm leading-relaxed">{desc}</p>
       </div>
     </div>
   );

@@ -3,7 +3,7 @@ export default function About() {
     <section className="py-20 bg-stone-100 px-6 md:px-12 lg:px-24">
       <div className="max-w-7xl mx-auto grid md:grid-cols-12 gap-12 items-center">
         <div className="md:col-span-4 flex justify-center">
-          <div className="w-64 h-84 md:w-full md:h-[450px] bg-cover bg-center grayscale contrast-115 shadow-md" style={{ backgroundImage: "url('https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/svmvmko2beu5hab/c232c89a99f74667808d71d792d1086a/original/WhatsApp-Image-2026-01-07-at-10.17.47.jpeg')" }} />
+          <div className="w-64 h-84 md:w-full md:h-[450px] bg-cover bg-center shadow-md" style={{ backgroundImage: "url('https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/svmvmko2beu5hab/c232c89a99f74667808d71d792d1086a/original/WhatsApp-Image-2026-01-07-at-10.17.47.jpeg')" }} />
         </div>
         <div className="md:col-span-8 space-y-6">
           <h2 className="text-xs uppercase tracking-widest text-stone-500 font-bold">Detrás de la estrategia</h2>
