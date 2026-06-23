@@ -6,10 +6,10 @@ export default function Hero() {
           Letra Fina
         </h1>
         <h2 className="text-4xl md:text-6xl font-light tracking-tight text-white leading-tight">
-          Derecho para negocios que <span className="font-serif italic text-stone-300">proyectan</span>
+          Derecho para negocios que <span className="font-serif italic text-stone-300">escalan seguros</span>
         </h2>
         <p className="text-lg md:text-xl text-stone-300 max-w-2xl font-light leading-relaxed">
-          Traducimos la complejidad legal al idioma de la innovación, la moda y la tecnología.
+          Traducimos la complejidad legal al lenguaje de tu negocio digital. Propiedad Intelectual, contratos y protección de activos intangibles para emprendedores y empresas que operan en entornos digitales y comerciales.
         </p>
         <div className="pt-4">
           <a
