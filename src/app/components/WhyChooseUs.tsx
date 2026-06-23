@@ -1,9 +1,9 @@
 export default function WhyChooseUs() {
   const reasons = [
-    { title: "Especialización sectorial", desc: "Conocimiento profundo de las industrias donde tecnología, creatividad y comercio convergen." },
-    { title: "Agilidad empresarial", desc: "Respuestas rápidas sin sacrificar rigor técnico. Entendemos los tiempos del mercado." },
-    { title: "Enfoque boutique", desc: "Atención personalizada y directa. Tu proyecto recibe dedicación exclusiva y estratégica." },
-    { title: "Visión internacional", desc: "Perspectiva global para negocios con proyección transfronteriza y ambiciones de expansión." }
+    { title: "Especialización exclusiva en el entorno digital", desc: "No somos un estudio generalista. Nos enfocamos únicamente en negocios digitales, comercio electrónico y propiedad intelectual. Eso se traduce en asesoramiento más preciso y más eficiente." },
+    { title: "Lenguaje claro, sin tecnicismos innecesarios", desc: "Traducimos la complejidad legal al idioma de tu negocio. Vas a entender exactamente qué firmás, qué protegés y qué riesgos evitás en cada decisión." },
+    { title: "Enfoque preventivo, no reactivo", desc: "Actuamos antes de que el problema ocurra. Blindar tu marca y tus contratos hoy es siempre más económico que litigar mañana." },
+    { title: "Atención directa y personalizada", desc: "Cada cliente trabaja directamente con nosotros, sin intermediarios. Tu proyecto recibe dedicación real y seguimiento concreto en cada etapa." }
   ];
 
   return (
